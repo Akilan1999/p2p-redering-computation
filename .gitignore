@@ -7,4 +7,9 @@ server/docker/__pycache__
 p2p-rendering-computation
 p2prc
 config.json
+*.tgz
 .vscode/
+hosts
+*.retry
+**/*.swp
+**/*.retry

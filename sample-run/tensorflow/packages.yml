@@ -26,8 +26,8 @@
     #   vars:
     #     users: "{{ secrets.users }}"
 
-    - role: cuda # CUDA Driver Setup
-      tags: [cuda]
+#    - role: cuda # CUDA Driver Setup
+#      tags: [cuda]
 
     # - role: nvidia # NVIDIA-Docker Runtime Setup
     #   tags: [nvidia]
